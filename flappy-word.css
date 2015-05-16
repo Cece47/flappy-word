@@ -1,0 +1,54 @@
+body {
+  background-color:#5ac9f4;
+}
+h1 {
+  font-family: 'Slackey', cursive;
+  color:#f7e140;
+  text-align:center;
+  font-size:60px;
+}
+.user-input {
+  text-align:center;
+  margin-top:150px;
+}
+p {
+  font-family:Helvetica;
+  color:white;
+}
+.guess {
+  width:50px;
+  height:50px;
+  font-family:'Slackey';
+  font-size:25px;
+  margin-right:20px;
+  color:#5ac9f4;
+  text-align:center;
+}
+button {
+  background-color:#f7e140;
+  height:60px;
+  width:60px;
+  border-radius: 40px;
+  color:#5ac9f4;
+  font-size:20px;
+}
+.progress-bar {
+  margin-top:70px;
+  text-align:center;
+  font-size:30px;
+  color:white;
+}
+.previous-guesses {
+  text-align:center;
+  margin:auto;
+  border: 1px dashed white;
+  height:40px;
+  width:200px;
+  margin-top:40px;
+}
+.computer-graphics {
+  color:white;
+  font-size:30px;
+  font-family:'Slackey';
+  text-align:center
+}
