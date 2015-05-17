@@ -5,29 +5,30 @@ h1 {
   font-family: 'Slackey', cursive;
   color:#f7e140;
   text-align:center;
-  font-size:60px;
+  font-size:80px;
 }
 .user-input {
   text-align:center;
-  margin-top:150px;
+  margin-top:80px;
 }
 p {
   font-family:Helvetica;
   color:white;
+  font-size:25px;
 }
 .guess {
-  width:50px;
-  height:50px;
+  width:70px;
+  height:70px;
   font-family:'Slackey';
-  font-size:25px;
+  font-size:40px;
   margin-right:20px;
   color:#5ac9f4;
   text-align:center;
 }
 button {
   background-color:#f7e140;
-  height:60px;
-  width:60px;
+  height:80px;
+  width:80px;
   border-radius: 40px;
   color:#5ac9f4;
   font-size:20px;
@@ -48,7 +49,7 @@ button {
 }
 .computer-graphics {
   color:white;
-  font-size:30px;
+  font-size:50px;
   font-family:'Slackey';
   text-align:center
 }
